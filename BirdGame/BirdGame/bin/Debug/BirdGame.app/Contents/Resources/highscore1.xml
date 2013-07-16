@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HighScores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <scores>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>80</int>
+    <int>285</int>
+  </scores>
+</HighScores>
